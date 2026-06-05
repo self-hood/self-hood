@@ -1,4 +1,4 @@
-<h1 align="right"> (Sh.) </h1>
+<!-- <h1 align="right"> (Sh.) </h1> -->
 
 ### own sha-256 pw.
 ```
