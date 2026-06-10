@@ -4,7 +4,7 @@
 ```
 B2ABB7CBA0B818E29022A7F5B65B66FDC4BD6B7FC4E131AAD4EB8CBDA7A21B4C
 ```
-*[check-it](https://www.pythonanywhere.com/user/selfhood/shares/4342e2ca71c64892a88d1d3ea2264a62/).*
+*[check it](https://www.pythonanywhere.com/user/selfhood/shares/4342e2ca71c64892a88d1d3ea2264a62/).*
 
 <!--
 **self-hood/self-hood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
