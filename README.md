@@ -1,22 +1,13 @@
-<!-- <h1 align="right"> (Sh.) </h1> -->
+<div align="center">
 
-### own sha-256 pw.
 ```
 B2ABB7CBA0B818E29022A7F5B65B66FDC4BD6B7FC4E131AAD4EB8CBDA7A21B4C
 ```
-*[check it](https://www.pythonanywhere.com/user/selfhood/shares/4342e2ca71c64892a88d1d3ea2264a62/).*
 
-<!--
-**self-hood/self-hood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<sub>
 
-Here are some ideas to get you started:
+[verify](https://www.pythonanywhere.com/user/selfhood/shares/4342e2ca71c64892a88d1d3ea2264a62/) · sha-256
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</sub>
+
+</div>
